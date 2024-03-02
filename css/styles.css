@@ -3,15 +3,19 @@ background-color: #fff;
 }
 .body{
     color: #434455;
+    font-family: "Roboto", sans-serif;
+    background-color: #FFFFF;
 }
 
 .logo {
-font-weight: 700;
+font-family: "Raleway", sans-serif;
+    font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
+   
 }
 .logo-colour {
 font-weight: 700;
@@ -77,12 +81,11 @@ font-weight: 700;
     font-size: 56px;
     line-height: 1.07;
     letter-spacing: 0.02em;
-    text-align: center;
     color: #fff;
 }
 
 .hero-btn {
-box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+    font-family: "Roboto", sans-serif;
     background: #4d5ae5;
     color: #ffffff
  background-color: #404BBF
@@ -100,9 +103,9 @@ cursor: pointer;
 }
 
 .features-title {
-display: none;
-    visibility: hidden;
-    opacity: 0;
+
+
+
 }
 
 .features-list {
@@ -203,7 +206,7 @@ font-weight: 400;
     color: #434455;
 }
 .footer {
-    background: #2e2f42;
+background-color: #2e2f42;
 }
 .footer-link {
     font-weight: 700;
@@ -220,13 +223,14 @@ font-weight: 400;
         letter-spacing: 0.03em;
         text-transform: uppercase;
         color: #f4f4fd;
+        font-family: "Raleway", sans-serif;
 }
 .footer-text{
 font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #f4f4fd;
+    color: #4d5ae5;
 }
 .span {
 
