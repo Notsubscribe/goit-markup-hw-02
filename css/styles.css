@@ -14,7 +14,7 @@ font-family: "Raleway", sans-serif;
     line-height: 1.17
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #2e2f42; 
+    color: #2E2F42;
    
 }
 .logo:hover {
@@ -31,11 +31,6 @@ font-weight: 700;
     text-transform: uppercase;
     color: #2e2f42;
 
-}
-.logo-colour:hover {
-color: #404bbf;
-
-}
     
 
 .header-menu {
@@ -261,4 +256,11 @@ background-color: #2e2f42;
 }
 .logo-colour {
 color: #f4f4fd;
+}
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
 }
