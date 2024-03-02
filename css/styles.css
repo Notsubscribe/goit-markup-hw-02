@@ -14,7 +14,7 @@ font-family: "Raleway", sans-serif;
     line-height: 1.17
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #4d5ae5;
+    color: #2e2f42; 
    
 }
 .logo:hover {
@@ -50,10 +50,10 @@ font-weight: 500;
     color: #2e2f42;
     
 }
-.header-menu-item:hover {
+.address-menu-link:hover {
 color: #404bbf;
 }
- .header-menu-item:focus {
+ .address-menu-link:focus {
     color: #404bbf;
  }   
 
