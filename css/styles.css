@@ -1,7 +1,7 @@
 .header-navigation {
 background-color: #fff;
 }
-.body{
+.body {
     color: #434455;
     font-family: "Roboto", sans-serif;
     background-color: #FFFFFF;
@@ -30,7 +30,7 @@ font-weight: 700;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #2e2f42;
-
+  }
     
 
 .header-menu {
