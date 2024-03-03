@@ -267,3 +267,14 @@ color: #f4f4fd;
 .logo .logo-colour {
     color: #2e2f42;
 }
+.logo .footer-logo-colour {
+color: #f4f4fd;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+}
