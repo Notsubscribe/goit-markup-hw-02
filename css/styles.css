@@ -258,9 +258,9 @@ background-color: #2e2f42;
 .logo-colour {
 color: #f4f4fd;
 }
-.header-menu-link1:hover {
+.header-menu-link:hover {
     color: #404bbf;
 }
-.address-menu-link1:focus {
+.address-menu-link:focus {
     color: #404bbf;
 }
