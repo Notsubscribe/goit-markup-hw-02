@@ -261,6 +261,9 @@ color: #f4f4fd;
 .header-menu-link:hover {
     color: #404bbf;
 }
-.address-menu-link:focus {
+.header-menu-link:focus {
     color: #404bbf;
+}
+.logo .logo-colour {
+    color: #2e2f42;
 }
